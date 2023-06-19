@@ -1,5 +1,4 @@
-# Proctored Exam Desktop Application![image](https://github.com/Arnav-Prabhale/miniproject/assets/92647170/9488e83a-72d3-496a-8d1d-7a283376e66a)
-
+# Proctored Exam Desktop Application!
 
 classic online exam system
 
